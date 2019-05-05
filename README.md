@@ -11,4 +11,4 @@ A pretty simple Google Chrome extension for download videos from Facebook.
   ![alt second step](./markdown/image/step2.png)
 
 
-## That's folk's
+## This's it
