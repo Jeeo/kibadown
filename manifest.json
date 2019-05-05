@@ -1,0 +1,15 @@
+{
+  "name": "kibadown",
+  "version": "1.0",
+  "description": "The extension that enable downloading movies of facebook without you need access any site with annoying ads",
+  "manifest_version": 2,
+  "permissions": ["declarativeContent", "activeTab", "downloads"],
+  "background": {
+    "scripts": ["./scripts/background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "index.html",
+    "default_icon": {"16": "./static/images/download.png"}
+  }
+}

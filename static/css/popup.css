@@ -1,0 +1,9 @@
+button {
+  height: auto;
+  width: 60px;
+  background: rgba(162, 151, 255, 0.89);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: rgb(250, 250, 250);
+  border-radius: 5px;
+}

@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage({url: document.querySelector('meta[property="og:video:url"]').content});
